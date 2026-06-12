@@ -1,0 +1,7 @@
+# Prompt for Deepseek
+
+Use the reference R code (Copied above) - for a similar graph layout, text size and style. 
+Generate a grouped bar plot for  (Disease A) and (Healthy control),
+where the Y axis will be Seropositivity and the X axis will be pathogens (Name of Pathogens) 
+
+This is my data: 
